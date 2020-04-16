@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import MainComponent from "./components/MainComponent";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MainComponent />
     </div>
   );
 }
 
 export default App;
+
+/* #1 */
+//[hualla-hullaji la-ilaha-illa-hu((a))] [a'limul-goibi wash-shahada((ti))] [huar-rohmanur rohim]
+
+/* #2 */
+//[hualla-hullaji la-ilaha-illa-hua (al-malikul kuddu'chuch)-(salamul) (mu'minul) (muhaiminul) (azizul) (jabbarul)
+//mutakabbir((u))] [subhanallahi ammma-yusrikun]
+
+/* #3 */
+//[hualla-hul kholikul bariul muchaouee'ru-lahul asma~ul-husna] [yuchabbihu-lahu ma~fissama-wa~ti wal-ard((i))]
+//[wa-hual azizul hakim]
